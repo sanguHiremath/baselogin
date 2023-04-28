@@ -1,0 +1,6 @@
+framework module baselogin {
+  umbrella header "baselogin-umbrella.h"
+
+  export *
+  module * { export * }
+}

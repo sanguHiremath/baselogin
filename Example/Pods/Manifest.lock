@@ -1,0 +1,16 @@
+PODS:
+  - baselogin (0.1.0)
+
+DEPENDENCIES:
+  - baselogin (from `../`)
+
+EXTERNAL SOURCES:
+  baselogin:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  baselogin: 6bf13ae5b1540441ca911d9ab59ef335bd10b687
+
+PODFILE CHECKSUM: 8c5f0ff6eea0c2c3bfb76cb938b20713499d7c0e
+
+COCOAPODS: 1.12.1
