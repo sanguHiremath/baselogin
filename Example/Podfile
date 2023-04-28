@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'baselogin_Example' do
+  pod 'baselogin', :path => '../'
+
+  target 'baselogin_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
